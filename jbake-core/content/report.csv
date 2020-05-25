@@ -1,0 +1,11 @@
+title=Report
+date=2020-05-19
+type=report
+status=published
+~~~~~~
+iteration,collectionName,requestName,method,url,status,code,responseTime,responseSize,executed,failed,skipped,body
+1,self-service,getName,get,https://url.com/names,OK,200,1245,3245,2,0,0,[json]jgkdfg[json]
+2,self-service,getName,get,https://url.com/names,OK,200,1245,3245,2,1,0,[json]jgkdfg[json]
+3,self-service,getName,get,https://url.com/names,OK,200,1245,3245,2,1,1,[json]jgkdfg[json]
+4,self-service,getName,get,https://url.com/names,OK,200,1245,3245,2,2,0,[json]jgkdfg[json]
+5,self-service,getName,get,https://url.com/names,OK,200,1245,3245,2,0,0,[json]jgkdfg[json]
