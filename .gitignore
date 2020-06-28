@@ -12,3 +12,8 @@
 build/
 .gradle
 .gradletasknamecache
+jbake-core/.settings/
+jbake-core/bin/
+jbake-core/output/
+jbake-dist/bin/
+jbake-dist/
